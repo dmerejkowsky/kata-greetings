@@ -38,4 +38,3 @@ welcome-view cleanup
   current-user -> getFirstName
   welcome-view -> getNameInput
 
-

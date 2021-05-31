@@ -1,0 +1,14 @@
+{
+  "name": "greetings",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dimitri Merejkowsky <dimitri@dmerej.info>",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^16.0.3"
+  },
+  "scripts" : {
+    "serve": "python -m http.server 8080",
+    "standard": "standard --global '$'"
+  }
+}
